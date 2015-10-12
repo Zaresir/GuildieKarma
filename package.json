@@ -1,0 +1,8 @@
+{
+  "name"                    : "GuildieKarma",
+  "description"             : "GuildieKarma is a Wildstar addon to assign private ranking to guildmates. Ranking is simply a number between 0 and 5, and it is assigned at the user's discretion. This ranking is not shared with other guildmates.",
+  "url"                     : "http://http://wildstar.curseforge.com/projects/guildiekarma",
+  "author"                  : "Zaresir TinkTaker",
+  
+  "version"                 : "2.0.0-release"
+}
