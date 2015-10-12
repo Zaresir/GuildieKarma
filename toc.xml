@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="Zaresir TinkTaker" APIVersion="10" Name="GuildieKarma" Description="Assign Karma points to guildmates" Version="1.0.0">
+<Addon Author="Zaresir TinkTaker" APIVersion="11" Name="GuildieKarma" Description="Assign Karma points to guildmates" Version="2.0.0">
     <Script Name="GuildieKarma.lua"/>
     <Form Name="GuildieKarma.xml"/>
 </Addon>

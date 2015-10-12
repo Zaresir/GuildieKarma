@@ -16,7 +16,7 @@ kstrContainerEventName_GK = "GuildieKarma"
 -- Constants
 -----------------------------------------------------------------------------------------------
 kCreator_GK = "Zaresir Tinktaker"
-kVersion_GK = "1.0.0"
+kVersion_GK = "2.0.0"
 kResetOptions_GK = false
 
 kKarmaMin_GK = 0
